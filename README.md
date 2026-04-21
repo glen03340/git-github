@@ -4,6 +4,8 @@ Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
 
 Los proyectos son los siguientes:
 
+Mi primera contribución local para github
+
 ## Contribuciones
 
 ¿Estás aquí para crear un Issue o un Pull Request? ¡Puedes agregar tu participación en nuesta lista de contribuidores! Ve a este documento y agrega tus datos por medio de un PR.
